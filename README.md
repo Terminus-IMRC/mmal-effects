@@ -2,6 +2,8 @@
 
 Lists the effects of MMAL's `vc.ril.image_fx`.
 
+![Screenshot](https://github.com/Terminus-IMRC/mmal-effects/raw/gh-pages/img/snapshot.png)
+
 
 ## Requirements
 
